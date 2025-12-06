@@ -1,23 +1,22 @@
 <img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
 
-<h1 align="center">Hey Everyone 👋, I'm Piyush</h1>
+<h1 align="center">Hey Everyone 👋, I'm Shivam</h1>
 <h3 align="center">A passionate Web Developer  From India 🇮🇳</h3>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br>
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning DSA <br>
 
-<br>👨‍💻 All of my projects are available at https://github.com/piyushvermaa<br><br>📝 I regularly solving problems on https://leetcode.com/stellar07/<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me piyushsoniiii.07@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/piyush-verma-883a26248
+<br>👨‍💻 All of my projects are available at https://github.com/SHIVAMSHARMA7000<br><br>📝 I regularly solving problems on https://leetcode.com/u/shivam_sharma_7000/<br><br>💬 Ask me about Javascript,python and java<br><br>📫 How to reach me shivamsharma00006578@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/shivam-sharma-5a5332365/
 
 ## 🌐 Socials:
 
 <p align="center">
-<a href="https://linkedin.com/in/piyush-verma-883a26248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-verma-883a26248" height="30" width="40" /></a>
-<a href="https://fb.com/piyush soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyush soni" height="30" width="40" /></a>
-<a href="https://instagram.com/piyuxhxoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyuxhxoni" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codexstellar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codexstellar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/stellar-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stellar-07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/stellar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-sharma-5a5332365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-sharma-5a5332365" height="30" width="40" /></a>
+
+
+
+<a href="https://leetcode.com/u/shivam_sharma_7000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
