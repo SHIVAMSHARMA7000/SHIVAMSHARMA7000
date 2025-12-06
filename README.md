@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=shivamsharma7000&theme=onedark&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SHIVAMSHARMA7000&theme=onedark&margin-w=4)
 
 ---
 
