@@ -6,23 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/github-action-user-contribution-grid-snake@v3
         with:
           github_user_name: SHIVAMSHARMA7000
-          outputs: dist/github-snake.svg
-
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit Outputs
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add github-contribution-grid-snake.svg
+          git commit -m 'Update snake animation' || echo "No changes to commit"
