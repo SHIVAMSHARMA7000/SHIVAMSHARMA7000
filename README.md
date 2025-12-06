@@ -78,9 +78,9 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SHIVAMSHARMA7000/SHIVAMSHARMA7000/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SHIVAMSHARMA7000&icon=0&color=0)](https://visitcount.itsvg.in)
 
