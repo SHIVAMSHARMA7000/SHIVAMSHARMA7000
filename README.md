@@ -47,11 +47,11 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsharma7000&theme=react&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVAMSHARMA7000&theme=react&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsharma7000&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVAMSHARMA7000&theme=react" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsharma7000&theme=react&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAMSHARMA7000&theme=react&layout=compact" />
 </div>
 
 ---
