@@ -7,10 +7,21 @@
 <h3 align="center">Full Stack Developer (Learning) | Java Programmer | Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/SHIVAMSHARMA7000">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shivam-sharma-5a5332365/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/shivam_sharma_7000/">LeetCode</a> •
-  <a href="mailto:shivamsharma00006578@gmail.com">Email</a>
+  <a href="https://github.com/SHIVAMSHARMA7000">
+    <img src="https://skillicons.dev/icons?i=github" width="45px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shivam-sharma-5a5332365/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shivam_sharma_7000/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shivamsharma00006578@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px"/>
+  </a>
 </p>
 
 ---
@@ -102,6 +113,10 @@ I will be adding more projects such as:
   &nbsp;&nbsp;
   <a href="https://github.com/SHIVAMSHARMA7000">
     <img src="https://skillicons.dev/icons?i=github" width="50px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shivam_sharma_7000/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50px"/>
   </a>
 </p>
 
