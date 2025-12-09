@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Shivam Sharma</h1>
 <h3 align="center">Full Stack Developer (Learning) | Java Programmer | Web Developer</h3>
@@ -13,10 +11,6 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shivam-sharma-5a5332365/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/shivam_sharma_7000/">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45px"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shivamsharma00006578@gmail.com">
